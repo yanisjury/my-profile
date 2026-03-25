@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#111418"/>
+  <circle cx="100" cy="80" r="38" fill="#1e2530"/>
+  <ellipse cx="100" cy="160" rx="55" ry="40" fill="#1e2530"/>
+  <circle cx="100" cy="80" r="36" fill="#2a3240"/>
+  <text x="100" y="88" text-anchor="middle" font-family="sans-serif" font-size="36" font-weight="bold" fill="#00e5ff">YJ</text>
+</svg>
